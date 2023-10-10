@@ -32,11 +32,9 @@ entrypoints==0.4+computecanada
 exceptiongroup==1.1.3+computecanada
 executing==1.2.0+computecanada
 fastjsonschema==2.18.0+computecanada
-filelock==3.12.4+computecanada
 fonttools==4.42.1+computecanada
 funcsigs==1.0.2+computecanada
 idna==3.4+computecanada
-imageio==2.31.3+computecanada
 importlib_metadata==6.8.0+computecanada
 importlib_resources==6.0.1+computecanada
 ipykernel==6.25.1+computecanada
@@ -49,7 +47,6 @@ jsonschema_specifications==2023.7.1+computecanada
 jupyter_client==8.3.1+computecanada
 jupyter_core==5.3.1+computecanada
 kiwisolver==1.4.5+computecanada
-lazy_loader==0.3+computecanada
 lockfile==0.12.2+computecanada
 MarkupSafe==2.1.3+computecanada
 matplotlib==3.7.2+computecanada
@@ -60,7 +57,6 @@ mpmath==1.3.0+computecanada
 nest_asyncio==1.5.7+computecanada
 netaddr==0.8.0+computecanada
 netifaces==0.11.0+computecanada
-networkx==3.1+computecanada
 nose==1.3.7+computecanada
 numpy==1.25.2+computecanada
 packaging==23.1+computecanada
@@ -76,7 +72,6 @@ pbr==5.11.1+computecanada
 pexpect==4.8.0+computecanada
 pickleshare==0.7.5+computecanada
 Pillow==10.0.0+computecanada
-Pillow_SIMD==9.0.0.post1+computecanada
 pkgutil_resolve_name==1.3.10+computecanada
 platformdirs==2.6.2+computecanada
 prometheus_client==0.17.1+computecanada
@@ -92,7 +87,6 @@ pyrsistent==0.19.3+computecanada
 python-dateutil==2.8.2+computecanada
 python_json_logger==2.0.7+computecanada
 pytz==2023.3+computecanada
-PyWavelets==1.3.0+computecanada
 PyYAML==6.0.1+computecanada
 pyzmq==25.1.1+computecanada
 referencing==0.30.2+computecanada
@@ -100,7 +94,6 @@ requests==2.31.0+computecanada
 rfc3339_validator==0.1.4+computecanada
 rfc3986_validator==0.1.1+computecanada
 rpds_py==0.10.0+computecanada
-scikit_image==0.21.0+computecanada
 scipy==1.11.2+computecanada
 Send2Trash==1.8.2+computecanada
 simplegeneric==0.8.1+computecanada
@@ -112,12 +105,8 @@ stack_data==0.6.2+computecanada
 sympy==1.12+computecanada
 terminado==0.17.1+computecanada
 testpath==0.6.0+computecanada
-tifffile==2023.8.30+computecanada
 tinycss2==1.2.1+computecanada
-torch==2.0.1+computecanada
-torchvision==0.15.2+computecanada
 tornado==6.3.3+computecanada
-tqdm==4.66.1+computecanada
 traitlets==5.9.0+computecanada
 typing_extensions==4.7.1+computecanada
 tzdata==2023.3+computecanada
