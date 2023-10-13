@@ -28,7 +28,8 @@ def visualization(test_ds, preds):
         plt.axis('off')
         label = preds[idx[i]]
         plt.title(test_ds.class_names[label])
-    plt.show()
+
+    plt.savefig('predictions.png')
 
 
 
